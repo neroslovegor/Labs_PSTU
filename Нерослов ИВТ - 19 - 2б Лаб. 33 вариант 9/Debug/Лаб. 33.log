@@ -1,0 +1,10 @@
+﻿  Convector.cpp
+  MyForm.cpp
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\MyForm.cpp(12,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\MyForm.cpp(62,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\MyForm.cpp(74,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\MyForm.cpp(76,48): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\MyForm.cpp(89,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Convector.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Лаб. 33.vcxproj -> C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\Debug\Лаб. 33.exe

@@ -1,0 +1,10 @@
+E:\project\Программирование\Лабораторные работы информатика\Лабораторные работы 2 семестр\Лаб. 33\Debug\Лаб. 33.vcxprojAssemblyReference.cache
+E:\project\Программирование\Лабораторные работы информатика\Лабораторные работы 2 семестр\Лаб. 33\Debug\Лаб. 33.exe
+E:\project\Программирование\Лабораторные работы информатика\Лабораторные работы 2 семестр\Лаб. 33\Debug\Лаб. 33.pdb
+E:\project\Программирование\Лабораторные работы информатика\Лабораторные работы 2 семестр\Лаб. 33\Debug\Лаб33.MyForm.resources
+E:\project\Программирование\Лабораторные работы информатика\Лабораторные работы 2 семестр\Лаб. 33\Debug\Лаб. 33.vcxproj.GenerateResource.cache
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\Debug\Лаб. 33.vcxprojAssemblyReference.cache
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\Debug\Лаб33.MyForm.resources
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\Debug\Лаб. 33.vcxproj.GenerateResource.cache
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\Debug\Лаб. 33.exe
+C:\Users\Neroslow\Desktop\save\Нерослов ИВТ - 19 - 2б Лаб. 33 вариант 9\Debug\Лаб. 33.pdb
